@@ -8,7 +8,7 @@ and evaluating the quality of the acquired signals for academic research and lea
 Citation:
 You can check the document file there: 
 ```
-sssssss
+https://docs.google.com/document/d/1ZuWx7JVmP6lc3u8-919ulYQq1VScYVbT/edit?usp=sharing&ouid=100423899415976353201&rtpof=true&sd=true
 ```
 ---
 Description:
